@@ -1,0 +1,63 @@
+﻿Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+
+выполненные задания переносим в Архив(внизу файла)
+==================================
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team        
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
+==================================
+Math(school):
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) экспресс курс по школьной математике, 2 лучших учебника \Math\school_theory
+==================================
+
+Python (получить сертификат):
+1)https://karpov.courses/pythonzero
+2)https://stepik.org/course/63085/promo
+3)https://www.kaggle.com/learn/intro-to-programming
+4)https://www.kaggle.com/learn/python
+==================================
+
+Probability:
+1)https://www.lektorium.tv/probability-statistics
+2)https://www.lektorium.tv/probability-statistics-8
+3)https://www.lektorium.tv/probability-statistics-9
+4)https://edu.sirius.online/#/course/1803
+
+Statistics:
+0)https://www.litres.ru/gettrial/?art=28731109&format=a4.pdf&lfrom=1021453250 статистика и котики
+4)https://stepik.org/course/76/syllabus
+5)https://stepik.org/course/524/syllabus
+
+Алгоритмы (выполнить):
+1)https://codeforces.com/problemset/problem/4/A 
+2)https://leetcode.com/problems/palindrome-number/
+3)переписать в тетрадь
+https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 70
+
+1 задача в день: 
+https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+
+копируешь с каждой странице по 1 решению:
+первая страница https://codeforces.com/problemset/status/4/problem/A 
+середина https://codeforces.com/problemset/status/4/problem/A/page/600?order=BY_PROGRAM_LENGTH_ASC
+последняя https://codeforces.com/problemset/status/4/problem/A/page/1356?order=BY_PROGRAM_LENGTH_ASC
+ 
+и вставляешь себе в алгоритмы Algorithms\codeforces.ipynb, потом проводишь разбор кода 
+и так дальше по другим задачам.
+==================================
+                                                                        
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc 
+
+==================================
+
+
+==================================
+==================================
+Архив:
+
+
